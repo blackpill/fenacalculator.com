@@ -1,3 +1,12 @@
+import { BASE_URL } from "@/app/config";
+export const metadata = {
+  title: "Terms of Service | FENa Calculator",
+  description:
+    "Terms of Service for FENa (Fractional Excretion of Sodium) calculator for quick assessment of acute kidney injury. Medical tool for healthcare professionals to differentiate prerenal from intrinsic renal failure.",
+  alternates: {
+    canonical: `${BASE_URL}/terms`,
+  },
+};
 export default function TermsPage() {
   return (
     <div className="container mx-auto px-4 py-8 max-w-4xl">

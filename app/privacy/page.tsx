@@ -1,3 +1,12 @@
+import { BASE_URL } from "@/app/config";
+export const metadata = {
+  title: "Privacy Policy | FENa Calculator",
+  description:
+    "Privacy Policy for FENa (Fractional Excretion of Sodium) calculator for quick assessment of acute kidney injury. Medical tool for healthcare professionals to differentiate prerenal from intrinsic renal failure.",
+  alternates: {
+    canonical: `${BASE_URL}/privacy`,
+  },
+};
 export default function PrivacyPage() {
   return (
     <div className="container mx-auto px-4 py-8 max-w-4xl">
