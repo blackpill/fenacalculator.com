@@ -6,9 +6,9 @@ export default function Home() {
     <main className="min-h-screen p-4 md:p-8 bg-background">
       <div className="max-w-4xl mx-auto space-y-8">
         <div className="text-center space-y-4">
-          <h1 className="text-4xl font-bold text-primary">FENa Calculator</h1>
+          <h1 className="text-4xl font-bold text-primary">FENa Calculator: Tool for Kidney Function Assessment</h1>
           <p className="text-lg text-muted-foreground">
-            Calculate the Fractional Excretion of Sodium (FENa) to help differentiate pre-renal from intrinsic renal acute kidney injury
+            The FENa Calculator is a reliable medical tool for calculating the Fractional Excretion of Sodium (FENa). This calculator helps healthcare professionals differentiate pre-renal from intrinsic renal acute kidney injury with precision and accuracy.
           </p>
         </div>
 
@@ -18,8 +18,58 @@ export default function Home() {
           <section className="space-y-4">
             <h2 className="text-2xl font-semibold text-primary">What is FENa Calculator?</h2>
             <p>
-              The Fractional Excretion of Sodium (FENa) Calculator is a medical tool that calculates the percentage of filtered sodium that is excreted in the urine. 
-              It uses both urine and serum measurements of sodium and creatinine to help clinicians distinguish between pre-renal and intrinsic renal causes of acute kidney injury (AKI).
+              The FENa Calculator is an advanced medical calculation tool designed to determine the percentage of filtered sodium excreted in urine. As a specialized medical calculator, it processes both urine and serum measurements of sodium and creatinine to provide crucial insights into kidney function. Healthcare professionals worldwide trust the FENa Calculator to assist in their clinical decision-making process when evaluating acute kidney injury (AKI).
+            </p>
+            <p>
+              Our FENa Calculator stands out for its accuracy and ease of use, making it an indispensable tool in both emergency and routine clinical settings. Whether you're a nephrologist, emergency physician, or general practitioner, this FENa Calculator provides quick and reliable results to support your diagnostic process.
+            </p>
+          </section>
+
+          <section className="space-y-4">
+            <h2 className="text-2xl font-semibold text-primary">Benefits of Using Our FENa Calculator</h2>
+            <p>
+              The FENa Calculator offers numerous advantages in clinical practice:
+            </p>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Instant and accurate calculations that eliminate manual computation errors</li>
+              <li>User-friendly interface designed for quick data entry during busy clinical shifts</li>
+              <li>Clear result interpretation guidelines to support clinical decision-making</li>
+              <li>Mobile-optimized design allowing access to the FENa Calculator anywhere, anytime</li>
+              <li>Regular updates to ensure alignment with current medical guidelines</li>
+            </ul>
+            <p>
+              Healthcare professionals choose our FENa Calculator for its reliability and clinical relevance in kidney function assessment.
+            </p>
+          </section>
+
+          <section className="space-y-4">
+            <h2 className="text-2xl font-semibold text-primary">Clinical Applications of FENa Calculator</h2>
+            <p>
+              The FENa Calculator serves multiple clinical purposes:
+            </p>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Emergency Department: Quick assessment of acute kidney injury etiology</li>
+              <li>Nephrology Consultations: Detailed evaluation of kidney function</li>
+              <li>Critical Care: Monitoring kidney function in critically ill patients</li>
+              <li>Internal Medicine: Differential diagnosis of decreased kidney function</li>
+              <li>Research: Standardized assessment of kidney function in clinical studies</li>
+            </ul>
+          </section>
+
+          <section className="space-y-4">
+            <h2 className="text-2xl font-semibold text-primary">Tips for Accurate FENa Calculation</h2>
+            <p>
+              To ensure the most accurate results from your FENa Calculator:
+            </p>
+            <ul className="list-disc pl-6 space-y-2">
+              <li>Collect all samples (urine and blood) within the same timeframe</li>
+              <li>Ensure proper specimen handling and laboratory processing</li>
+              <li>Document any medications that might affect results, especially diuretics</li>
+              <li>Consider the patient's volume status and recent fluid administration</li>
+              <li>Review results in context with other clinical and laboratory findings</li>
+            </ul>
+            <p>
+              Remember that the FENa Calculator is most reliable when used as part of a comprehensive clinical assessment.
             </p>
           </section>
 
@@ -108,7 +158,7 @@ export default function Home() {
         </div>
 
         <div className="text-sm text-muted-foreground text-center">
-          <p>This calculator is for educational purposes only. Always consult with a healthcare provider for medical advice.</p>
+          <p>This calculator is for informational purposes only. Always consult with a healthcare provider for medical advice.</p>
           
           <section className="mt-8 text-left">
             <h2 className="text-2xl font-semibold text-primary mb-4">References</h2>
