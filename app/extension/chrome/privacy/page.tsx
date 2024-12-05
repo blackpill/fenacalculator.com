@@ -7,7 +7,7 @@ export default function PrivacyPolicy() {
         <section>
           <h2 className="text-2xl font-semibold mb-3">Introduction</h2>
           <p>
-            This Privacy Policy describes how FENn Calculator ("we", "our", or "the extension") 
+            This Privacy Policy describes how FENn Calculator (&quot;we&quot;, &quot;our&quot;, or &quot;the extension&quot;) 
             handles information when you use our Chrome Extension.
           </p>
         </section>
