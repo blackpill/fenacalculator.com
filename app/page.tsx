@@ -21,7 +21,7 @@ export default function Home() {
               The FENa Calculator is an advanced medical calculation tool designed to determine the percentage of filtered sodium excreted in urine. As a specialized medical calculator, it processes both urine and serum measurements of sodium and creatinine to provide crucial insights into kidney function. Healthcare professionals worldwide trust the FENa Calculator to assist in their clinical decision-making process when evaluating acute kidney injury (AKI).
             </p>
             <p>
-              Our FENa Calculator stands out for its accuracy and ease of use, making it an indispensable tool in both emergency and routine clinical settings. Whether you're a nephrologist, emergency physician, or general practitioner, this FENa Calculator provides quick and reliable results to support your diagnostic process.
+              Our FENa Calculator stands out for its accuracy and ease of use, making it an indispensable tool in both emergency and routine clinical settings. Whether you&apos;re a nephrologist, emergency physician, or general practitioner, this FENa Calculator provides quick and reliable results to support your diagnostic process.
             </p>
           </section>
 
@@ -65,7 +65,7 @@ export default function Home() {
               <li>Collect all samples (urine and blood) within the same timeframe</li>
               <li>Ensure proper specimen handling and laboratory processing</li>
               <li>Document any medications that might affect results, especially diuretics</li>
-              <li>Consider the patient's volume status and recent fluid administration</li>
+              <li>Consider the patient&apos;s volume status and recent fluid administration</li>
               <li>Review results in context with other clinical and laboratory findings</li>
             </ul>
             <p>
